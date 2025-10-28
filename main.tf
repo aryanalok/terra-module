@@ -24,3 +24,5 @@ module "prod-infra" {
   instance_type = "t3.micro"
   instance_count = 2
 }
+
+#new comment
